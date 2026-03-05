@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://github.com/Harshakotha31/tweet-generator",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
